@@ -1,6 +1,8 @@
 # aupangilo
 OpenGL repo
 
+Link trello nhóm: https://trello.com/b/BmO1XXT9/project
+
 **Cách cài OpenGL trên Visual studio code:**
 1. Cài VSCode
 2. Tải Extension "C/C++ extension for VS Code", mở extension view Ctrl+Shift+X
