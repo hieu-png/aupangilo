@@ -19,12 +19,6 @@ Link trello nhóm: https://trello.com/b/BmO1XXT9/project
 -Ấn OK để lưu
 
 4.Chỉnh sửa các file config launch ở trong .vscode
-- Ở c_cpp_properties.json sửa compilerPath
-
-- Ở launch.json sửa miDebuggerPath
-
-- Ở task.json sửa command
-
-Thay _D:\\Document\\_ thành _%Chỗ_giải_nén%\\_
+- Ở c_cpp_properties.json sửa compilerPath Thay _D:\\Document\\MinGW\\bin\\gcc.exe_ thành _%Chỗ_giải_nén%\\MinGW\\bin\\gcc.exe_
 
 K làm đc ăn cốc
