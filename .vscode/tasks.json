@@ -11,8 +11,9 @@
                 "-I./include",
                 "-L./lib",
                 "src/\\*.cpp",
-                "src/glad.c",
-                "-lglfw3dll",
+                "-lopengl32",
+                "-lglu32",
+                "-lfreeglut",
                 "-o",
                 "${workspaceFolder}/myprogram.exe"
             ],
